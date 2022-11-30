@@ -9,3 +9,4 @@ Short TheOdinProject program to practice web design.
 * Git management
 * Git commit message standard
 * Ordered and unordered lists
+* Implementing CSS files externally, internally, and inline
